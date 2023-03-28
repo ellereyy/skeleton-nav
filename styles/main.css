@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Bungee&family=Bungee+Shade&family=Cutive+Mono&display=swap');
 
+/* nav styles 
+---------------------------------*/
 
 header {
     background-color: orange;
@@ -14,10 +16,6 @@ header {
     color: black;
     font-family: 'Bungee', cursive;
 }
-
-
-/* nav styles 
----------------------------------*/
 
 .nav-display {
     display: block;
